@@ -14,6 +14,7 @@ public class MedicionesTemperaturas
      * Dia del registro
      */
     private int dia;
+    //la rata kun estuvo aqui
     
     /**
      * Mes del registro
